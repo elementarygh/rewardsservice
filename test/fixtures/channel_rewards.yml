@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  channel: SPORTS
+  reward: CHAMPIONS_LEAGUE_FINAL_TICKET
+
+two:
+  channel: KIDS
+  reward: NONE
+
+three:
+  channel: MUSIC
+  reward: KARAOKE_PRO_MICROPHONE
+
+four:
+  channel: NEWS
+  reward: NONE
+
+five:
+  channel: MOVIES
+  reward: PIRATES_OF_THE_CARIBBEAN_COLLECTION
+  
